@@ -1,7 +1,10 @@
 [![Theme Unit Test Data Offline by Rajat Chodhary](screenshot/screenshot.jpg)](http://www.chodhary.com)
+
 My name is [Rajat Chodhary] (http://www.chodhary.com), and I am [WordPress theme developer](http://profiles.wordpress.org/rajatchodhary). I always look around find optimal solution to increase my productivity. If I am not developing wordpress theme then I am busy in review of new WordPress themes (On my own). If you appriciate my effort that follow me, and star this repo
 
 As per [WP-TRT](https://make.wordpress.org/themes/about-old/how-to-join-wptrt/) guidelines, you need to download WordPress [Theme Unit Test Data file](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) from Theme Unit Test page. But, couple of the time importing fails ( _**most of the time on slow Internet Connection**_ ). So, I have found a way around to make your life simple and less frustrating.
+
+**MAKE SURE THAT YOUR DISCONNECT FROM INTERNET ON YOUR DEVELOPMENT MACHINE**
 
 Use following steps for hassle free import:
 
