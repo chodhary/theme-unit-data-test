@@ -4,7 +4,7 @@ My name is [Rajat Chodhary] (http://www.chodhary.com), and I am [WordPress theme
 
 As per [WP-TRT](https://make.wordpress.org/themes/about-old/how-to-join-wptrt/) guidelines, you need to download WordPress [Theme Unit Test Data file](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) from Theme Unit Test page. But, couple of the time importing fails ( _**most of the time on slow Internet Connection**_ ). So, I have found a way around to make your life simple and less frustrating.
 
-**MAKE SURE THAT YOUR DISCONNECT FROM INTERNET ON YOUR DEVELOPMENT MACHINE**
+**MAKE SURE THAT YOU'RE DISCONNECT FROM INTERNET ON YOUR DEVELOPMENT MACHINE / UNPLUG INTERNET :D**
 
 Use following steps for hassle free import:
 
