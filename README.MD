@@ -10,7 +10,7 @@ Use following steps for hassle free import:
 
 * Start with a fresh and clean [WordPress.org] (https://wordpress.org/download/) installation.
 * Download and extract latest version of WP [Theme Unit Test Data] (https://github.com/chodhary/theme-unit-data-test/archive/master.zip) archive from [github] (https://github.com/) repository.
-* Download and install [WordPress Importer](https://downloads.wordpress.org/plugin/wordpress-importer/) and [Search and Replace](https://downloads.wordpress.org/plugin/search-and-replace/) plugins from [Official WordPress Plugin repository](https://wordpress.org/plugins/).
+* Download and install [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/) and [Search and Replace](https://wordpress.org/plugins/search-and-replace/) plugins from [Official WordPress Plugin repository](https://wordpress.org/plugins/).
 * Log in to your **WordPress Dashboard**. Go to _**Plugins > Add new**_ instead of search use upload to install your downloaded plugin archive.
 * When your plugins installed, go to installed plugins and _**activate WordPress Importer**_, and _**Search and Replace**_.
 * Go ahead to Select _**Tools > Import**_ from WordPress menu. On Import page, click WordPress, and on leading page **click browse button**. _Guide and select **theme-unit-test-data.xml** from extracted folder._
